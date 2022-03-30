@@ -39,9 +39,9 @@ title_separator: "-"
 name: International Workshop on Languages for Modelling Variability (MODEVAR)
 description: Website of the Fourth International Workshop on Languages for Modelling
   Variability
-url: https://modevar.github.io
+url: https://modevar.github.io/2021
 baseurl: 
-repository: modevar/modevar.github.io
+repository: modevar/2021
 teaser: 
 logo: 
 masthead_title: MODEVAR<span style="color:#0092ca;">@SPLC 2021</span>
